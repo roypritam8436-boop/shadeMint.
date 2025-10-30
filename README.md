@@ -1,6 +1,7 @@
 # 🎨 Blockchain Color Picker (Uniqueness Guaranteed)
-<img width="1920" height="1080" alt="Screenshot 2025-10-29 140017" src="https://github.com/user-attachments/assets/3fed620b-05af-4d95-8217-f733e936d895" />
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 140017" src="https://github.com/user-attachments/assets/3fed620b-05af-4d95-8217-f733e936d895" />
+https://celo-sepolia.blockscout.com/address/0x92c26AAf6309b54ce50a084e3A28EeeC9433df3a
 A beginner-friendly blockchain project that lets users **mint unique colors as NFTs** on Ethereum (or any EVM-compatible chain).  
 Each color can be owned by only one wallet — **no two people can mint the same color**.  
 
